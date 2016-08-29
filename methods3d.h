@@ -1,3 +1,6 @@
+/* class   gives possibilities to   compute 3d realted  features
+already compute  Homography and  PItch&Yaw angle of ray between focal point and  3d point
+*/
 #ifndef METHODS3D_H
 #define METHODS3D_H
 
