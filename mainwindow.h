@@ -1,3 +1,5 @@
+/* Mian window of a program , where whole GUI is controlled
+*/
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
