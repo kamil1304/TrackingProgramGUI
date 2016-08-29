@@ -1,3 +1,5 @@
+/* CLass gives  differen posiibilities to track  objects
+*/
 #ifndef TRACKINGMETHODS_H
 #define TRACKINGMETHODS_H
 
