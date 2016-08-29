@@ -1,3 +1,7 @@
+/*  Class enables to play and save video  from camera
+  and also find a most distinctive pixel and follow it drawing 
+  circle around
+*/
 #ifndef PLAYER_H
 #define PLAYER_H
 
