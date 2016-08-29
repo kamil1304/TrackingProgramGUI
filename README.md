@@ -1,2 +1,0 @@
-# TrackingProgramGUI
-Tracking program 
