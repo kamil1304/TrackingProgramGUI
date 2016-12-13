@@ -15,11 +15,11 @@ Now You have several posibilities:
 
 Files:
 
-main.cpp-  main file which start the program
+main.cpp -  main file which start the program
 mainwindow.ui - graphical interface of the main window,
-mainwinodw.h-  file of main window, that contain all all methods of the window 
+mainwinodw.h -  file of main window, that contain all all methods of the window 
 methods3d.h - file  gives possibilities to   compute 3d realted  features
-player.h-  play/save vide and  find a most distinctive pixel and follow it drawing 
+player.h -  play/save vide and  find a most distinctive pixel and follow it drawing 
   		circle around
-trackingmethods.h-gives  differen posiibilities to track  objects		
-ShowVideo.pro-file contain all dependencies
+trackingmethods.h - gives  differen posiibilities to track  objects		
+ShowVideo.pro - file contain all dependencies
